@@ -13,6 +13,6 @@
 ### ☁️ **wordcloud:**
 
 
-- 청와대 국민청원 크롤링 csv 파일에서 category별로 청원 title들을 wordcloud로 시각화하는 코드
+- 청와대 국민청원 크롤링 csv 파일에서 category별로 청원 title에서 명사를 추출하여 wordcloud로 시각화하는 코드
 
 
