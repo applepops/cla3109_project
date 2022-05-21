@@ -12,6 +12,9 @@
 - 자세한 설명은 각주 참고
 
 
+<br/>
+
+
 ### ☁️ **wordcloud:**
 
 청와대 국민청원 크롤링 csv 파일(finish_petition.csv)에서 category별로 청원 title에서 명사를 추출하여 wordcloud로 시각화하는 코드
