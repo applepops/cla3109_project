@@ -22,11 +22,3 @@
 ex) category "외교/통일/국방" wordcloud.png
 
 <img src="https://user-images.githubusercontent.com/101245685/168340285-963e1de7-dd18-49e1-afd0-0db3ff7c8ca9.png" width="300" height="300">
-
-
-
-<br/>
-
-### ⛳ **최종 보고서:**
-
-team 5 project final report 
